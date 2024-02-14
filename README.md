@@ -1,7 +1,5 @@
 # React Context API
 
-# React Context API
-
 ## Introduction
 
 This repository provides a simple implementation of React Context API for managing user authentication in a React application. The Context API allows components to share data without having to pass props manually through each level of the component tree.
