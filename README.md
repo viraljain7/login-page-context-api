@@ -203,3 +203,8 @@ const LoginInVerif = () => {
 
 export default LoginInVerif;
 ```
+
+
+
+![Uploading App.png…](![context](https://github.com/viraljain7/theme-switcher-content-api/assets/88425229/2bdc5b31-37ff-4993-8483-54e09d34093e)
+![App](https://github.com/viraljain7/theme-switcher-content-api/assets/88425229/4de03f7a-298e-47d9-aa3b-2e8ae0e9a8f7)# Context Api
